@@ -10,7 +10,8 @@ Flet library
 
 ## Operation
 
-gif
+![Animação](https://github.com/lgluiz1/Calculadora_py/assets/125038498/2453073d-85d4-497c-8215-5a5d21ad1750)
+
 
 ## About or development
 
